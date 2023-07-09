@@ -34,3 +34,11 @@ pip install pymunk
 ```
 
 I also recommend installing Python extensions into VSCode when asked.
+
+# Credits
+
+All material in this repository would not have been possible without the excellent tutorials and efforts of the following creators:
+
+## Coder Space
+YouTube: https://www.youtube.com/@CoderSpaceChannel
+GitHub: @StanislavPetroV - https://github.com/StanislavPetrovV
