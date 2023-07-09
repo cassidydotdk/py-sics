@@ -8,11 +8,11 @@ Go through the examples in this order:
 - [pymonk-test.py](./pymonk-test.py)
 - [fun-with-pymonk.py](./fun-with-pymonk.py)
 
-[Fun with pymonk](Fun-with-pymonk.gif)
+![Fun with pymonk](Fun-with-pymonk.gif)
 
 # Credits
 The examples in this folder are Very heavily derived from the excellent tutorial series by the following creator(s)
 
 ## Coder Space
-YouTube: https://www.youtube.com/watch?v=-q_Vje2a6eY 
-GitHub: https://github.com/StanislavPetrovV/Python-Galton-Board- 
+- YouTube: https://www.youtube.com/watch?v=-q_Vje2a6eY 
+- GitHub: https://github.com/StanislavPetrovV/Python-Galton-Board- 
