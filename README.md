@@ -35,6 +35,10 @@ pip install pymunk
 
 I also recommend installing Python extensions into VSCode when asked.
 
+# Examples
+
+- [Hello World](./hello-world/) - Very quick introduction to pygame and pymunk
+
 # Credits
 
 All material in this repository would not have been possible without the excellent tutorials and efforts of the following creators:

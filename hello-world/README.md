@@ -4,11 +4,11 @@ Very basic introduction to pygame, pymonk, and a bit of fun at the end.
 Go through the examples in this order:
 
 - [pygame-hello.py](./pygame-hello.py)
-- [pymonk-hello.py](./pymunk-hello.py)
-- [pymonk-test.py](./pymonk-test.py)
-- [fun-with-pymonk.py](./fun-with-pymonk.py)
+- [pymunk-hello.py](./pymunk-hello.py)
+- [pymunk-test.py](./pymonk-test.py)
+- [fun-with-pymunk.py](./fun-with-pymunk.py)
 
-![Fun with pymonk](Fun-with-pymonk.gif)
+![Fun with pymonk](Fun-with-pymunk.gif)
 
 # Credits
 The examples in this folder are Very heavily derived from the excellent tutorial series by the following creator(s)
