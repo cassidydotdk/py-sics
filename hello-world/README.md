@@ -11,7 +11,7 @@ Go through the examples in this order:
 ![Fun with pymonk](Fun-with-pymunk.gif)
 
 # Credits
-The examples in this folder are Very heavily derived from the excellent tutorial series by the following creator(s)
+The examples in this folder are very heavily derived from the excellent tutorials and tutorial series by the following creator(s)
 
 ## Coder Space
 - YouTube: https://www.youtube.com/watch?v=-q_Vje2a6eY 
