@@ -1,4 +1,5 @@
 # Extending the base pygame project with pymunk physics engine
+# Since we're not actually DOING anything with the physics engine yet, this will be relatively underwhelming
 import pygame as pg
 import pymunk.pygame_util
 
