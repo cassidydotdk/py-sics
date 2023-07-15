@@ -13,7 +13,7 @@ Files:
 
 - [taichi-julia.py](./taichi-julia.py)
 
-For additional examples of what you can do with Taihi, visit the [Taichi Github](https://github.com/taichi-dev/taichi/tree/master/python/taichi/examples)
+For additional examples of what you can do with Taichi, visit the [Taichi Github](https://github.com/taichi-dev/taichi/tree/master/python/taichi/examples) and the main [Taochi Website](https://www.taichi-lang.org/)
 
 Have fun :-)
 
