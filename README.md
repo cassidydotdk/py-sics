@@ -38,6 +38,7 @@ I also recommend installing Python extensions into VSCode when asked.
 # Examples
 
 - [Hello World](./hello-world/) - Very quick introduction to pygame and pymunk
+- [Fun With Julia](./hello-taichi/) - Real-time calculation of Julia fractal set using Taichi
 
 # Credits
 
