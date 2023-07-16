@@ -25,6 +25,6 @@ void main() {
         z.y = y;
     }
 
-    float val = float(i) * 0.02;
+    float val = float(i) * 0.05;
     fragColour = vec4(1. - val, 1. - val, 1. - val, 1);
 }
