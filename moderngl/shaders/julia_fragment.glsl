@@ -2,13 +2,16 @@
 
 out vec4 fragColour; // glsl doesn't care what this is called, it just expects a vec4 output argument
 
-uniform vec2 c;
+uniform float t;
 uniform vec2 resolution;
 uniform int max_iterations = 100;
 
 void main() {
     // calculate UV coordinates, normalised to the current window resolution
     vec2 uv = (gl_FragCoord.xy - 0.5 * resolution.xy) /  resolution.y;
+
+    // messing a around a bit with these, to create more variance in the animation
+    vec2 c = vec2(sin(t/71), cos(t/103));
 
     vec2 z;
     z.x = 3.0 * uv.x;

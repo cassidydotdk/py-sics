@@ -33,10 +33,7 @@ class Main(mglw.WindowConfig):
         # Clear framebuffer
         self.ctx.clear()
 
-        ci = math.sin(self.t / 71)
-        cr = math.cos(self.t / 103)
-        self.prog["c"] = (ci, cr)   # sets the shader uniform "c" to our value(s)
-
+        self.prog["t"] = self.t
         self.t += timestep
 
         # Then we render our quad using the shaders we have loaded
